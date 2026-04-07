@@ -1,6 +1,5 @@
 {
   "name": "gtbitrc",
-  "homepage": "https://jaskeerat01.github.io/gtbitrc",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -8,7 +7,6 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d dist"
   },
   "devDependencies": {
     "typescript": "~6.0.2",
